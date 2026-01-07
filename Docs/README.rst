@@ -1,4 +1,4 @@
-# SSH Key Generator
+# SSH Key Generator 
 
 A high-performance SSH Ed25519 key generator that searches for keys containing specific sequences in their public key representation. Available in both **Rust** and **Go** implementations.
 
